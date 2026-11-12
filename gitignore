@@ -1,0 +1,23 @@
+# --- Dataset (download it yourself, see README) ---
+data/
+Walmart.csv
+
+# --- Python / virtual environment ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- LaTeX build files (answer sheet) ---
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
